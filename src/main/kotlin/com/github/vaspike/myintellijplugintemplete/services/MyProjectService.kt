@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vaspike.myintellijplugintemplete.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vaspike.myintellijplugintemplete.MyBundle
 
 class MyProjectService(project: Project) {
 
